@@ -1,0 +1,4 @@
+Algoritma analizi
+    - O Big O (en kötü durum)
+    - Ω Omega (en iyi durum)
+    - Θ Theta (ortalama durum)
