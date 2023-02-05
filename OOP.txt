@@ -1,0 +1,25 @@
+-Encapsulation:
+
+    gizleme
+    o sınıfa ait niteliklerin sadece o sınıfta kullanılmasını sağlar
+    public:tüm sınıflar erişir
+    private:sadece o sınıftan erişilebilir
+    protected:sadece bulundağu paketten erişilebilir
+
+-Abstraction:
+
+    O sınıftan nesne üretmek gereksiz ise o sınıf soyutlanır.
+
+-Inheritance:
+
+    kalıtım
+
+-Polymorphism:
+
+    çok biçimlimlik
+    method overriding
+
+-Interface:
+    
+    if else kullanmak yerine interface tanımla ve bunları gerekli class'lara implement et
+    interface newlenemez
