@@ -1,0 +1,10 @@
+TRANSFORMERS:
+
+	pipeline("text-classification") -> positive negative
+	pipeline("ner", aggregation_strategy="simple") -> named entity recognition
+	pipeline("question-answering") -> :)
+	pipeline("summarization")
+	pipeline("text-generation")
+	pipeline("translation_en_to_de",
+ model="Helsinki-NLP/opus-mt-en-de") -> çeviri
+	generator = pipeline("text-generation") -> text generation
